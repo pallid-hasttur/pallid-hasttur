@@ -82,11 +82,14 @@
 
 <h2 align="center"> 📈 GitHub Insights</h2>
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=pallid-hasttur&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&custom_title=GitHub%20Stats)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pallid-hasttur&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats"
+    height="150" alt="stats graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pallid-hasttur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2&custom_title=Main%20Languages"
+    height="150" alt="languages graph" />
+</div>
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pallid-hasttur&layout=compact&langs_count=5&theme=nord&hide_border=true&custom_title=Top%20Languages)
-
-### ✍️ Random Dev Quote
+### ✍️ What inspires me
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
