@@ -80,14 +80,13 @@
 
 <hr>
 
-<h2 align="center">📈 GitHub Insights</h2>
+## 📈 GitHub Insights
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pallid-hasttur&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&custom_title=GitHub Stats"
-    height="150" alt="GitHub stats" />
-  &nbsp;
+    src="https://github-readme-stats.vercel.app/api?username=pallid-hasttur&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&custom_title=GitHub Stats"
+    height="150" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pallid-hasttur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&custom_title=Top Languages"
-    height="150" alt="Top languages" />
-</div>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pallid-hasttur&layout=compact&langs_count=5&theme=nord&hide_border=true&custom_title=Top Languages"
+    height="150" />
+</p>
