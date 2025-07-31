@@ -80,13 +80,13 @@
 
 <hr>
 
-## 📈 GitHub Insights
+<h2 align="center"> 📈 GitHub Insights</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pallid-hasttur&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&custom_title=GitHub Stats"
-    height="150" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pallid-hasttur&layout=compact&langs_count=5&theme=nord&hide_border=true&custom_title=Top Languages"
-    height="150" />
-</p>
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=pallid-hasttur&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&custom_title=GitHub%20Stats)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pallid-hasttur&layout=compact&langs_count=5&theme=nord&hide_border=true&custom_title=Top%20Languages)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
