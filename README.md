@@ -16,8 +16,6 @@
   <img src="https://cdn.simpleicons.org/php/777BB4" width="40" title="PHP" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css/663399" width="40" title="CSS3" />
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python (Basic)" />
 </div>
 
@@ -28,7 +26,6 @@
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" title="Vue.js" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" width="40" title="Angular" />
   <img src="https://cdn.simpleicons.org/node.js/339933" width="40" title="Node.js" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" title="Bootstrap" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" title="jQuery" />
 </div>
 
@@ -54,11 +51,10 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git" />
   <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/gitlab/FCA121" width="40" title="GitLab" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" title="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/gitlab/FCA121" width="40" title="GitLab" />
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" title="GitLab CI" />
   <img src="https://cdn.simpleicons.org/sonarqubeserver/126ED3" width="40" title="SonarQube" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" title="Postman" />
 </div>
 
 <h2 align="center">📜 Certifications</h2>
