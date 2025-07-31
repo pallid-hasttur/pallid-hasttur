@@ -91,5 +91,8 @@
     height="150" alt="languages graph" />
 </div>
 
-### ✍️ What inspires me
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<h2 align="center"> ✍️ What inspires me </h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Dev Quotes">
+</div>
